@@ -1,4 +1,4 @@
-![Fallout 4: Modlist screenshot]()
+![Fallout 4: Modlist screenshot](https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/a03fec24df877cc65c037673397ad5c0.jpg)
 # 🌵 Fallout 4: Mojave inspired modlist
 This modlist is not very lore friendly, and aims at transforming the Commonwealth of Fallout 4 to resemble the Mojave desert found in Fallout: New Vegas. 
 The mods have been picked as to keep it as immersive as possible, with some handmade weapon mods added since the vanilla games suck.
